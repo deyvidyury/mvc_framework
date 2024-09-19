@@ -1,0 +1,15 @@
+{
+    "name": "yury/mvc_framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deyvid Lopes",
+            "email": "deyvidyury@yahoo.com.br"
+        }
+    ],
+    "require": {}
+}
